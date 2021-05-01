@@ -15,7 +15,7 @@ context('API Requests',  () => {
         cy.request(options('GET')).then(result => {
             console.log(result)
             expect(result.status).to.equal(200)
-            expect(result.body).to.have.length(0)
+            expect(result.body).to.have.length(1)
         })
     })
 
