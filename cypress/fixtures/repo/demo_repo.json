@@ -1,0 +1,6 @@
+{
+  "name": "blog",
+  "auto_init": true,
+  "private": true,
+  "gitignore_template": "nanoc"
+}

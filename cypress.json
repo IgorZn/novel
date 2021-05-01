@@ -1,0 +1,13 @@
+{
+  "baseUrl": "https://api.github.com/",
+  "ignoreTestFiles": "**/examples/*",
+  "viewportHeight": 768,
+  "viewportWidth": 1024,
+
+  "env": {
+    "credentials": {
+      "TOKEN": "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"
+    },
+    "api_base": "https://api.github.com/"
+  }
+}

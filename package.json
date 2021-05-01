@@ -1,0 +1,26 @@
+{
+  "name": "noveltest",
+  "version": "1.0.0",
+  "description": "Test exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:local": "npx cypress open --browser firefox"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorZn/novel-test.git"
+  },
+  "keywords": [
+    "novel"
+  ],
+  "author": "Igor Znamenskii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorZn/novel-test/issues"
+  },
+  "homepage": "https://github.com/IgorZn/novel-test#readme",
+  "dependencies": {
+    "cypress": "^7.2.0"
+  }
+}
